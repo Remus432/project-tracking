@@ -13,8 +13,9 @@
   @use "./styles/variables";
   @import "./main";
 
-  body {
+  .container {
     overflow-x: hidden;
+    padding-bottom: 5rem;
   }
 
   body::before {
