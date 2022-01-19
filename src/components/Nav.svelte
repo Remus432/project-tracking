@@ -34,6 +34,8 @@
 
     &__logo {
       width: 2.4rem;
+
+      @include queries.respond(desktop) { width: 3.2rem; }
     }
 
     &__hamburger {
