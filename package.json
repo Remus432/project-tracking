@@ -19,6 +19,7 @@
     "vite": "^2.7.2"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.4",
     "node-sass": "^7.0.1",
     "sass": "^1.48.0"
   }

@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Barlow&family=Barlow+Condensed:wght@400;700&display=swap');
+
 html {
   font-size: 62.5%;
 }
@@ -5,4 +7,8 @@ html {
 body {
   font-size: 1.8rem;
   font-family: "Barlow Condensed", sans-serif;
+}
+
+.hero__product-subheadline {
+  font-family: "Barlow", sans-serif;
 }
