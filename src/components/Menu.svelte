@@ -7,16 +7,16 @@
 {#if !isHidden}
 <ul class="menu">
   <li class="menu__item">
-    <a href="/product" class="menu__link">Product</a>
+    <a href="#" class="menu__link">Product</a>
   </li>
   <li class="menu__item">
-    <a href="/product" class="menu__link">Features</a>
+    <a href="#" class="menu__link">Features</a>
   </li>
   <li class="menu__item">
-    <a href="/product" class="menu__link">Pricing</a>
+    <a href="#" class="menu__link">Pricing</a>
   </li>
   <li class="menu__item">
-    <a href="/product" class="menu__link">Login</a>
+    <a href="#" class="menu__link">Login</a>
   </li>
 </ul>
 {/if}
